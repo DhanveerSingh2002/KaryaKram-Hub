@@ -9,6 +9,7 @@ export default authMiddleware({
         '/api/uploadthing',
         '/favico.svg',
         '/favicon.ico',
+        '/main.jpg',
     ],
     
     ignoredRoutes : [
